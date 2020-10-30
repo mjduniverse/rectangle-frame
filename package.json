@@ -8,6 +8,10 @@
     "type": "git",
     "url": "https://github.com/mjduniverse/rectangle-frame.git"
   },
+  
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/"
+  },
 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
