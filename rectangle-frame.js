@@ -496,7 +496,7 @@ RectangleFrame.prototype.getUnrotatedRawUpperPoint = function() {
 
 // NodeJS support
 
-if(typeof module.exports === "object") {
+if(typeof module === "object" && typeof module.exports === "object") {
   module.exports = RectangleFrame;
 }
 

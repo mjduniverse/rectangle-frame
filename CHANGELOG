@@ -1,0 +1,5 @@
+1.0.2:
+-Fixing fatal error in module.exports check
+
+1.0.1: 
+-Inital Release

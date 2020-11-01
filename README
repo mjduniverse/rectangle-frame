@@ -1,0 +1,3 @@
+rectangle-frame is JavaScript library that is used for directly moving the four corners of a rectangle. These transformations include rotation of the rectangle, directly setting the rectangle points, etc.
+
+This library could be used on the web, or as a Node.js module.

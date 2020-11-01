@@ -1,16 +1,12 @@
 {
   "name": "rectangle-frame",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A JavaScript library that is used for directly moving the four corners of a rectangle. These transformations include rotation of the rectangle, directly setting the rectangle points, etc.",
   "main": "rectangle-frame.js",
 
   "repository": {
     "type": "git",
     "url": "https://github.com/mjduniverse/rectangle-frame.git"
-  },
-  
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/"
   },
 
   "scripts": {
